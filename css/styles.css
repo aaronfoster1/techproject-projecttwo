@@ -3,6 +3,11 @@
 	box-sizing: border-box;
 }
 
+ul {
+    list-style: none;
+    padding: 0px;
+}
+
 body {
 	font-family: 'Roboto Condensed';
 	color: black;
@@ -71,6 +76,10 @@ img {
 .col {
 	padding: 50px;
 	border-bottom: 1px solid black;
+}
+
+.h2 {
+	text-align: center;	
 }
 
 .contact h3 {
